@@ -50,3 +50,4 @@ O sistema implementa relacionamentos entre as entidades:
 ---
 
 Feito com 💻 por Maysa Santos
+Repositório GitHub https://github.com/Maysamkt/BookStore.git
